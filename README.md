@@ -9,6 +9,7 @@ npm i to this project
 
 -> create api gateway WS (customRoute) 
 
+
 Postman : 
 
 wss://<ID_generatezd>.execute-api.eu-west-3.amazonaws.com/production
