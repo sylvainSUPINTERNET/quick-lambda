@@ -1,8 +1,6 @@
 
 import AWS from "aws-sdk"
 
-
-
 // /opt is where layer folder goes
 // means if you upload folder on layer such as /toto/tata.json
 // -> let jso = require('/opt/toto/tata.json')
